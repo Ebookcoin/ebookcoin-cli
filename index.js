@@ -12,7 +12,7 @@ var npm = require("npm");
 var request = require("request");
 var valid_url = require("valid-url");
 
-var sdk = "git@github.com:Ebookcoin/ebookcoin-dapps-sdk.git";
+var sdk = "https://github.com/Ebookcoin/ebookcoin-dapps-sdk.git";
 
 program.version("1.1.3");
 
